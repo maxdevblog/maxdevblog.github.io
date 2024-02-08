@@ -31,33 +31,26 @@ a.steam{
   background: #2A2451;
   padding: 12px;
   border-radius: 128px;
-  position: fixed;
-  bottom: 0;
-  left: 0;
 }
 a.telegram{
   display: inline-block;
   background: #2F99FF;
   padding: 12px;
   border-radius: 128px;
-  position: fixed;
-  bottom: 0;
-  left: 0;
 }
 a.boosty{
   display: inline-block;
   background: #FF8532;
   padding: 12px;
   border-radius: 128px;
-  position: fixed;
-  bottom: 0;
-  left: 0;
 }
 a.youtube{
   display: inline-block;
   background: #FF3538;
   padding: 12px;
   border-radius: 128px;
+}
+div.links{
   position: fixed;
   bottom: 0;
   left: 0;
