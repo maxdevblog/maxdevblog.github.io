@@ -17,12 +17,13 @@ html{
 p{
   font-family: 'Font3';
   font-size: 24 px;
+  color: #FFF;
 }
 h1{
   font-family: 'Space';
   text-decoration: underline;
 }
-h3{
+h2{
   font-family: 'TextFont';
 }
 a.steam{
@@ -83,4 +84,37 @@ a.youtube{
   content: counter(percentage) '%';
   animation: progress 2s 1 forwards;
 }
-  
+
+p.Содержание{
+  display: block;
+  padding: 30px;
+  background-color: #1D4242;
+  border-radius: 32px;
+}
+
+div.idea{
+  display: block;
+  padding: 30px;
+  background-color: #1D4242;
+  border-radius: 32px;
+}
+div.begin{
+  display: block;
+  padding: 30px;
+  background-color: #2E6B34;
+  border-radius: 32px;
+  margin-top: 16px;
+}
+h3{
+  color:#FFF;
+  font-family: 'Font3'
+}
+
+div{
+  display: block;
+  padding: 30px;
+  background-color: #793337;
+  border-radius: 32px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
