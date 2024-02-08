@@ -85,13 +85,6 @@ a.youtube{
   animation: progress 2s 1 forwards;
 }
 
-p.Содержание{
-  display: block;
-  padding: 30px;
-  background-color: #1D4242;
-  border-radius: 32px;
-}
-
 div.idea{
   display: block;
   padding: 30px;
